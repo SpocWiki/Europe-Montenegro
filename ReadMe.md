@@ -110,8 +110,8 @@ id: Montenegro
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Montenegro//
-markerFolder: ./Montenegro//
+geojsonFolder: .//
+markerFolder: .//
 ```
 
 [name-en::Montenegro] 
