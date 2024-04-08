@@ -126,8 +126,10 @@ Capital :: [[./Montenegro/Counties/Podgorica]]
 ![[Flag_of_Montenegro.svg|350]] 
 [Alcohol-l::] 
 [Language-Id::] 
-[geo-lon::19.4667] 
-[geo-lat::42.7833] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::19.4667] 
+[has_place_latitude::42.7833] 
 
 
 

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::19.46667] 
-[geo-lat::42.78333] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::19.46667] 
+[has_place_latitude::42.78333] 
 [name::Podgorica] 
 State ::  
 Country :: [[../../../../Montenegro]]  
