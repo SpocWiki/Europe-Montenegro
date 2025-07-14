@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Budua.public](/_public/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~Montenegro\Budva\CityBudua.public.md) 
+### [Budua](/_Standards/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Budva/City/Budua.md) 
 
-### [Budua.internal](/_internal/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~Montenegro\Budva\CityBudua.internal.md) 
+### [Budua.public](/_public/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Budva/City/Budua.public.md) 
 
-### [Budua.protect](/_protect/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~Montenegro\Budva\CityBudua.protect.md) 
+### [Budua.internal](/_internal/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Budva/City/Budua.internal.md) 
 
-### [Budua.private](/_private/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~Montenegro\Budva\CityBudua.private.md) 
+### [Budua.protect](/_protect/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Budva/City/Budua.protect.md) 
 
-### [Budua.personal](/_personal/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~Montenegro\Budva\CityBudua.personal.md) 
+### [Budua.private](/_private/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Budva/City/Budua.private.md) 
 
-### [Budua.secret](/_secret/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~Montenegro\Budva\CityBudua.secret.md)
+### [Budua.personal](/_personal/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Budva/City/Budua.personal.md) 
+
+### [Budua.secret](/_secret/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Budva/City/Budua.secret.md)
 

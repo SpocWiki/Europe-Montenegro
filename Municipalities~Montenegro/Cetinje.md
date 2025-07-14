@@ -41,15 +41,17 @@ markerFolder: ./Cetinje/
 
 ## Confidential Links & Embeds: 
 
-### [Cetinje.public](/_public/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroCetinje.public.md) 
+### [Cetinje](/_Standards/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Cetinje.md) 
 
-### [Cetinje.internal](/_internal/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroCetinje.internal.md) 
+### [Cetinje.public](/_public/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Cetinje.public.md) 
 
-### [Cetinje.protect](/_protect/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroCetinje.protect.md) 
+### [Cetinje.internal](/_internal/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Cetinje.internal.md) 
 
-### [Cetinje.private](/_private/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroCetinje.private.md) 
+### [Cetinje.protect](/_protect/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Cetinje.protect.md) 
 
-### [Cetinje.personal](/_personal/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroCetinje.personal.md) 
+### [Cetinje.private](/_private/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Cetinje.private.md) 
 
-### [Cetinje.secret](/_secret/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroCetinje.secret.md)
+### [Cetinje.personal](/_personal/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Cetinje.personal.md) 
+
+### [Cetinje.secret](/_secret/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Cetinje.secret.md)
 

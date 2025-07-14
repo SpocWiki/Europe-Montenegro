@@ -41,15 +41,17 @@ markerFolder: ./Plužine/
 
 ## Confidential Links & Embeds: 
 
-### [Plužine.public](/_public/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroPlužine.public.md) 
+### [Plužine](/_Standards/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Plužine.md) 
 
-### [Plužine.internal](/_internal/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroPlužine.internal.md) 
+### [Plužine.public](/_public/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Plužine.public.md) 
 
-### [Plužine.protect](/_protect/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroPlužine.protect.md) 
+### [Plužine.internal](/_internal/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Plužine.internal.md) 
 
-### [Plužine.private](/_private/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroPlužine.private.md) 
+### [Plužine.protect](/_protect/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Plužine.protect.md) 
 
-### [Plužine.personal](/_personal/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroPlužine.personal.md) 
+### [Plužine.private](/_private/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Plužine.private.md) 
 
-### [Plužine.secret](/_secret/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroPlužine.secret.md)
+### [Plužine.personal](/_personal/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Plužine.personal.md) 
+
+### [Plužine.secret](/_secret/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Plužine.secret.md)
 

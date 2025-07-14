@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Golli_Vrh.public](/_public/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~Montenegro\Cetinje\CityGolli_Vrh.public.md) 
+### [Golli_Vrh](/_Standards/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Cetinje/City/Golli_Vrh.md) 
 
-### [Golli_Vrh.internal](/_internal/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~Montenegro\Cetinje\CityGolli_Vrh.internal.md) 
+### [Golli_Vrh.public](/_public/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Cetinje/City/Golli_Vrh.public.md) 
 
-### [Golli_Vrh.protect](/_protect/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~Montenegro\Cetinje\CityGolli_Vrh.protect.md) 
+### [Golli_Vrh.internal](/_internal/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Cetinje/City/Golli_Vrh.internal.md) 
 
-### [Golli_Vrh.private](/_private/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~Montenegro\Cetinje\CityGolli_Vrh.private.md) 
+### [Golli_Vrh.protect](/_protect/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Cetinje/City/Golli_Vrh.protect.md) 
 
-### [Golli_Vrh.personal](/_personal/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~Montenegro\Cetinje\CityGolli_Vrh.personal.md) 
+### [Golli_Vrh.private](/_private/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Cetinje/City/Golli_Vrh.private.md) 
 
-### [Golli_Vrh.secret](/_secret/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~Montenegro\Cetinje\CityGolli_Vrh.secret.md)
+### [Golli_Vrh.personal](/_personal/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Cetinje/City/Golli_Vrh.personal.md) 
+
+### [Golli_Vrh.secret](/_secret/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Cetinje/City/Golli_Vrh.secret.md)
 

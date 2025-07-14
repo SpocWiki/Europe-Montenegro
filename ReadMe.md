@@ -132,15 +132,17 @@ Capital :: [[./Montenegro/Counties/Podgorica]]
 
 ## Confidential Links & Embeds: 
 
-### [ReadMe.public](/_public/\Earth\Continent\Europe\Europe~South\MontenegroReadMe.public.md) 
+### [ReadMe](/_Standards/Earth/Continent/Europe/Europe~South/Montenegro/ReadMe.md) 
 
-### [ReadMe.internal](/_internal/\Earth\Continent\Europe\Europe~South\MontenegroReadMe.internal.md) 
+### [ReadMe.public](/_public/Earth/Continent/Europe/Europe~South/Montenegro/ReadMe.public.md) 
 
-### [ReadMe.protect](/_protect/\Earth\Continent\Europe\Europe~South\MontenegroReadMe.protect.md) 
+### [ReadMe.internal](/_internal/Earth/Continent/Europe/Europe~South/Montenegro/ReadMe.internal.md) 
 
-### [ReadMe.private](/_private/\Earth\Continent\Europe\Europe~South\MontenegroReadMe.private.md) 
+### [ReadMe.protect](/_protect/Earth/Continent/Europe/Europe~South/Montenegro/ReadMe.protect.md) 
 
-### [ReadMe.personal](/_personal/\Earth\Continent\Europe\Europe~South\MontenegroReadMe.personal.md) 
+### [ReadMe.private](/_private/Earth/Continent/Europe/Europe~South/Montenegro/ReadMe.private.md) 
 
-### [ReadMe.secret](/_secret/\Earth\Continent\Europe\Europe~South\MontenegroReadMe.secret.md)
+### [ReadMe.personal](/_personal/Earth/Continent/Europe/Europe~South/Montenegro/ReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/Earth/Continent/Europe/Europe~South/Montenegro/ReadMe.secret.md)
 

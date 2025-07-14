@@ -41,15 +41,17 @@ markerFolder: ./Žabljak/
 
 ## Confidential Links & Embeds: 
 
-### [Žabljak.public](/_public/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroŽabljak.public.md) 
+### [Žabljak](/_Standards/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Žabljak.md) 
 
-### [Žabljak.internal](/_internal/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroŽabljak.internal.md) 
+### [Žabljak.public](/_public/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Žabljak.public.md) 
 
-### [Žabljak.protect](/_protect/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroŽabljak.protect.md) 
+### [Žabljak.internal](/_internal/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Žabljak.internal.md) 
 
-### [Žabljak.private](/_private/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroŽabljak.private.md) 
+### [Žabljak.protect](/_protect/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Žabljak.protect.md) 
 
-### [Žabljak.personal](/_personal/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroŽabljak.personal.md) 
+### [Žabljak.private](/_private/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Žabljak.private.md) 
 
-### [Žabljak.secret](/_secret/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroŽabljak.secret.md)
+### [Žabljak.personal](/_personal/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Žabljak.personal.md) 
+
+### [Žabljak.secret](/_secret/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Žabljak.secret.md)
 

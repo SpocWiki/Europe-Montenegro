@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Crkvice.public](/_public/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~Montenegro\Kotor\CityCrkvice.public.md) 
+### [Crkvice](/_Standards/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Kotor/City/Crkvice.md) 
 
-### [Crkvice.internal](/_internal/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~Montenegro\Kotor\CityCrkvice.internal.md) 
+### [Crkvice.public](/_public/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Kotor/City/Crkvice.public.md) 
 
-### [Crkvice.protect](/_protect/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~Montenegro\Kotor\CityCrkvice.protect.md) 
+### [Crkvice.internal](/_internal/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Kotor/City/Crkvice.internal.md) 
 
-### [Crkvice.private](/_private/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~Montenegro\Kotor\CityCrkvice.private.md) 
+### [Crkvice.protect](/_protect/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Kotor/City/Crkvice.protect.md) 
 
-### [Crkvice.personal](/_personal/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~Montenegro\Kotor\CityCrkvice.personal.md) 
+### [Crkvice.private](/_private/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Kotor/City/Crkvice.private.md) 
 
-### [Crkvice.secret](/_secret/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~Montenegro\Kotor\CityCrkvice.secret.md)
+### [Crkvice.personal](/_personal/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Kotor/City/Crkvice.personal.md) 
+
+### [Crkvice.secret](/_secret/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Kotor/City/Crkvice.secret.md)
 

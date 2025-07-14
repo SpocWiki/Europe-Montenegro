@@ -41,15 +41,17 @@ markerFolder: ./Kotor/
 
 ## Confidential Links & Embeds: 
 
-### [Kotor.public](/_public/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroKotor.public.md) 
+### [Kotor](/_Standards/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Kotor.md) 
 
-### [Kotor.internal](/_internal/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroKotor.internal.md) 
+### [Kotor.public](/_public/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Kotor.public.md) 
 
-### [Kotor.protect](/_protect/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroKotor.protect.md) 
+### [Kotor.internal](/_internal/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Kotor.internal.md) 
 
-### [Kotor.private](/_private/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroKotor.private.md) 
+### [Kotor.protect](/_protect/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Kotor.protect.md) 
 
-### [Kotor.personal](/_personal/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroKotor.personal.md) 
+### [Kotor.private](/_private/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Kotor.private.md) 
 
-### [Kotor.secret](/_secret/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroKotor.secret.md)
+### [Kotor.personal](/_personal/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Kotor.personal.md) 
+
+### [Kotor.secret](/_secret/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Kotor.secret.md)
 

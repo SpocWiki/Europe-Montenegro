@@ -113,15 +113,17 @@ Creative Commons may be contacted at <http://creativecommons.org/>.
 
 ## Confidential Links & Embeds: 
 
-### [License.public](/_public/\Earth\Continent\Europe\Europe~South\MontenegroLicense.public.md) 
+### [License](/_Standards/Earth/Continent/Europe/Europe~South/Montenegro/License.md) 
 
-### [License.internal](/_internal/\Earth\Continent\Europe\Europe~South\MontenegroLicense.internal.md) 
+### [License.public](/_public/Earth/Continent/Europe/Europe~South/Montenegro/License.public.md) 
 
-### [License.protect](/_protect/\Earth\Continent\Europe\Europe~South\MontenegroLicense.protect.md) 
+### [License.internal](/_internal/Earth/Continent/Europe/Europe~South/Montenegro/License.internal.md) 
 
-### [License.private](/_private/\Earth\Continent\Europe\Europe~South\MontenegroLicense.private.md) 
+### [License.protect](/_protect/Earth/Continent/Europe/Europe~South/Montenegro/License.protect.md) 
 
-### [License.personal](/_personal/\Earth\Continent\Europe\Europe~South\MontenegroLicense.personal.md) 
+### [License.private](/_private/Earth/Continent/Europe/Europe~South/Montenegro/License.private.md) 
 
-### [License.secret](/_secret/\Earth\Continent\Europe\Europe~South\MontenegroLicense.secret.md)
+### [License.personal](/_personal/Earth/Continent/Europe/Europe~South/Montenegro/License.personal.md) 
+
+### [License.secret](/_secret/Earth/Continent/Europe/Europe~South/Montenegro/License.secret.md)
 

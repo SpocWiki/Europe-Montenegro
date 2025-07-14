@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kotor.public](/_public/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~Montenegro\Cetinje\CityKotor.public.md) 
+### [Kotor](/_Standards/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Cetinje/City/Kotor.md) 
 
-### [Kotor.internal](/_internal/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~Montenegro\Cetinje\CityKotor.internal.md) 
+### [Kotor.public](/_public/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Cetinje/City/Kotor.public.md) 
 
-### [Kotor.protect](/_protect/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~Montenegro\Cetinje\CityKotor.protect.md) 
+### [Kotor.internal](/_internal/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Cetinje/City/Kotor.internal.md) 
 
-### [Kotor.private](/_private/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~Montenegro\Cetinje\CityKotor.private.md) 
+### [Kotor.protect](/_protect/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Cetinje/City/Kotor.protect.md) 
 
-### [Kotor.personal](/_personal/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~Montenegro\Cetinje\CityKotor.personal.md) 
+### [Kotor.private](/_private/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Cetinje/City/Kotor.private.md) 
 
-### [Kotor.secret](/_secret/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~Montenegro\Cetinje\CityKotor.secret.md)
+### [Kotor.personal](/_personal/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Cetinje/City/Kotor.personal.md) 
+
+### [Kotor.secret](/_secret/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Cetinje/City/Kotor.secret.md)
 

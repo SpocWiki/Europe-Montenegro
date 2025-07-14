@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Podgorica-City.public](/_public/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~Montenegro\Kolašin\CityPodgorica-City.public.md) 
+### [Podgorica-City](/_Standards/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Kolašin/City/Podgorica-City.md) 
 
-### [Podgorica-City.internal](/_internal/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~Montenegro\Kolašin\CityPodgorica-City.internal.md) 
+### [Podgorica-City.public](/_public/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Kolašin/City/Podgorica-City.public.md) 
 
-### [Podgorica-City.protect](/_protect/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~Montenegro\Kolašin\CityPodgorica-City.protect.md) 
+### [Podgorica-City.internal](/_internal/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Kolašin/City/Podgorica-City.internal.md) 
 
-### [Podgorica-City.private](/_private/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~Montenegro\Kolašin\CityPodgorica-City.private.md) 
+### [Podgorica-City.protect](/_protect/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Kolašin/City/Podgorica-City.protect.md) 
 
-### [Podgorica-City.personal](/_personal/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~Montenegro\Kolašin\CityPodgorica-City.personal.md) 
+### [Podgorica-City.private](/_private/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Kolašin/City/Podgorica-City.private.md) 
 
-### [Podgorica-City.secret](/_secret/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~Montenegro\Kolašin\CityPodgorica-City.secret.md)
+### [Podgorica-City.personal](/_personal/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Kolašin/City/Podgorica-City.personal.md) 
+
+### [Podgorica-City.secret](/_secret/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Kolašin/City/Podgorica-City.secret.md)
 

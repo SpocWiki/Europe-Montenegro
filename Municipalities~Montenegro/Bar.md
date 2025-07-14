@@ -40,15 +40,17 @@ markerFolder: ./Bar/
 
 ## Confidential Links & Embeds: 
 
-### [Bar.public](/_public/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroBar.public.md) 
+### [Bar](/_Standards/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Bar.md) 
 
-### [Bar.internal](/_internal/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroBar.internal.md) 
+### [Bar.public](/_public/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Bar.public.md) 
 
-### [Bar.protect](/_protect/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroBar.protect.md) 
+### [Bar.internal](/_internal/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Bar.internal.md) 
 
-### [Bar.private](/_private/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroBar.private.md) 
+### [Bar.protect](/_protect/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Bar.protect.md) 
 
-### [Bar.personal](/_personal/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroBar.personal.md) 
+### [Bar.private](/_private/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Bar.private.md) 
 
-### [Bar.secret](/_secret/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroBar.secret.md)
+### [Bar.personal](/_personal/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Bar.personal.md) 
+
+### [Bar.secret](/_secret/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Bar.secret.md)
 

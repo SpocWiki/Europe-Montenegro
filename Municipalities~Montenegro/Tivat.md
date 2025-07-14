@@ -41,15 +41,17 @@ markerFolder: ./Tivat/
 
 ## Confidential Links & Embeds: 
 
-### [Tivat.public](/_public/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroTivat.public.md) 
+### [Tivat](/_Standards/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Tivat.md) 
 
-### [Tivat.internal](/_internal/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroTivat.internal.md) 
+### [Tivat.public](/_public/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Tivat.public.md) 
 
-### [Tivat.protect](/_protect/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroTivat.protect.md) 
+### [Tivat.internal](/_internal/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Tivat.internal.md) 
 
-### [Tivat.private](/_private/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroTivat.private.md) 
+### [Tivat.protect](/_protect/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Tivat.protect.md) 
 
-### [Tivat.personal](/_personal/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroTivat.personal.md) 
+### [Tivat.private](/_private/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Tivat.private.md) 
 
-### [Tivat.secret](/_secret/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroTivat.secret.md)
+### [Tivat.personal](/_personal/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Tivat.personal.md) 
+
+### [Tivat.secret](/_secret/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Tivat.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Cetinje.public](/_public/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~Montenegro\Cetinje\CityCetinje.public.md) 
+### [Cetinje](/_Standards/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Cetinje/City/Cetinje.md) 
 
-### [Cetinje.internal](/_internal/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~Montenegro\Cetinje\CityCetinje.internal.md) 
+### [Cetinje.public](/_public/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Cetinje/City/Cetinje.public.md) 
 
-### [Cetinje.protect](/_protect/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~Montenegro\Cetinje\CityCetinje.protect.md) 
+### [Cetinje.internal](/_internal/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Cetinje/City/Cetinje.internal.md) 
 
-### [Cetinje.private](/_private/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~Montenegro\Cetinje\CityCetinje.private.md) 
+### [Cetinje.protect](/_protect/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Cetinje/City/Cetinje.protect.md) 
 
-### [Cetinje.personal](/_personal/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~Montenegro\Cetinje\CityCetinje.personal.md) 
+### [Cetinje.private](/_private/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Cetinje/City/Cetinje.private.md) 
 
-### [Cetinje.secret](/_secret/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~Montenegro\Cetinje\CityCetinje.secret.md)
+### [Cetinje.personal](/_personal/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Cetinje/City/Cetinje.personal.md) 
+
+### [Cetinje.secret](/_secret/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Cetinje/City/Cetinje.secret.md)
 

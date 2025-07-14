@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Vermac.public](/_public/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~Montenegro\Kotor\CityVermac.public.md) 
+### [Vermac](/_Standards/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Kotor/City/Vermac.md) 
 
-### [Vermac.internal](/_internal/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~Montenegro\Kotor\CityVermac.internal.md) 
+### [Vermac.public](/_public/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Kotor/City/Vermac.public.md) 
 
-### [Vermac.protect](/_protect/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~Montenegro\Kotor\CityVermac.protect.md) 
+### [Vermac.internal](/_internal/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Kotor/City/Vermac.internal.md) 
 
-### [Vermac.private](/_private/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~Montenegro\Kotor\CityVermac.private.md) 
+### [Vermac.protect](/_protect/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Kotor/City/Vermac.protect.md) 
 
-### [Vermac.personal](/_personal/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~Montenegro\Kotor\CityVermac.personal.md) 
+### [Vermac.private](/_private/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Kotor/City/Vermac.private.md) 
 
-### [Vermac.secret](/_secret/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~Montenegro\Kotor\CityVermac.secret.md)
+### [Vermac.personal](/_personal/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Kotor/City/Vermac.personal.md) 
+
+### [Vermac.secret](/_secret/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Kotor/City/Vermac.secret.md)
 

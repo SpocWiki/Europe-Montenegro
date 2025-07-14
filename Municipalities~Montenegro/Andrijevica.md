@@ -41,15 +41,17 @@ markerFolder: ./Andrijevica/
 
 ## Confidential Links & Embeds: 
 
-### [Andrijevica.public](/_public/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroAndrijevica.public.md) 
+### [Andrijevica](/_Standards/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Andrijevica.md) 
 
-### [Andrijevica.internal](/_internal/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroAndrijevica.internal.md) 
+### [Andrijevica.public](/_public/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Andrijevica.public.md) 
 
-### [Andrijevica.protect](/_protect/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroAndrijevica.protect.md) 
+### [Andrijevica.internal](/_internal/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Andrijevica.internal.md) 
 
-### [Andrijevica.private](/_private/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroAndrijevica.private.md) 
+### [Andrijevica.protect](/_protect/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Andrijevica.protect.md) 
 
-### [Andrijevica.personal](/_personal/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroAndrijevica.personal.md) 
+### [Andrijevica.private](/_private/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Andrijevica.private.md) 
 
-### [Andrijevica.secret](/_secret/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroAndrijevica.secret.md)
+### [Andrijevica.personal](/_personal/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Andrijevica.personal.md) 
+
+### [Andrijevica.secret](/_secret/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Andrijevica.secret.md)
 

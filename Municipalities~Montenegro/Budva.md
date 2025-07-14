@@ -41,15 +41,17 @@ markerFolder: ./Budva/
 
 ## Confidential Links & Embeds: 
 
-### [Budva.public](/_public/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroBudva.public.md) 
+### [Budva](/_Standards/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Budva.md) 
 
-### [Budva.internal](/_internal/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroBudva.internal.md) 
+### [Budva.public](/_public/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Budva.public.md) 
 
-### [Budva.protect](/_protect/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroBudva.protect.md) 
+### [Budva.internal](/_internal/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Budva.internal.md) 
 
-### [Budva.private](/_private/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroBudva.private.md) 
+### [Budva.protect](/_protect/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Budva.protect.md) 
 
-### [Budva.personal](/_personal/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroBudva.personal.md) 
+### [Budva.private](/_private/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Budva.private.md) 
 
-### [Budva.secret](/_secret/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroBudva.secret.md)
+### [Budva.personal](/_personal/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Budva.personal.md) 
+
+### [Budva.secret](/_secret/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Budva.secret.md)
 

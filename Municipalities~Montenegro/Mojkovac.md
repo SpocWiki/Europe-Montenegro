@@ -41,15 +41,17 @@ markerFolder: ./Mojkovac/
 
 ## Confidential Links & Embeds: 
 
-### [Mojkovac.public](/_public/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroMojkovac.public.md) 
+### [Mojkovac](/_Standards/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Mojkovac.md) 
 
-### [Mojkovac.internal](/_internal/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroMojkovac.internal.md) 
+### [Mojkovac.public](/_public/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Mojkovac.public.md) 
 
-### [Mojkovac.protect](/_protect/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroMojkovac.protect.md) 
+### [Mojkovac.internal](/_internal/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Mojkovac.internal.md) 
 
-### [Mojkovac.private](/_private/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroMojkovac.private.md) 
+### [Mojkovac.protect](/_protect/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Mojkovac.protect.md) 
 
-### [Mojkovac.personal](/_personal/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroMojkovac.personal.md) 
+### [Mojkovac.private](/_private/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Mojkovac.private.md) 
 
-### [Mojkovac.secret](/_secret/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroMojkovac.secret.md)
+### [Mojkovac.personal](/_personal/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Mojkovac.personal.md) 
+
+### [Mojkovac.secret](/_secret/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Mojkovac.secret.md)
 
