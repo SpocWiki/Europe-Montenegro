@@ -40,11 +40,16 @@ markerFolder: ./Berane/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Montenegro/Counties/Berane|Berane]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Montenegro/Counties/Berane.public|Berane.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Montenegro/Counties/Berane.internal|Berane.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Montenegro/Counties/Berane.protect|Berane.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Montenegro/Counties/Berane.private|Berane.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Montenegro/Counties/Berane.personal|Berane.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Montenegro/Counties/Berane.secret|Berane.secret]] 
+
+### [Berane.public](/_public/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroBerane.public.md) 
+
+### [Berane.internal](/_internal/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroBerane.internal.md) 
+
+### [Berane.protect](/_protect/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroBerane.protect.md) 
+
+### [Berane.private](/_private/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroBerane.private.md) 
+
+### [Berane.personal](/_personal/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroBerane.personal.md) 
+
+### [Berane.secret](/_secret/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroBerane.secret.md)
 

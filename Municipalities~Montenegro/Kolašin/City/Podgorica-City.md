@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Montenegro/City/Podgorica|Podgorica]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Montenegro/City/Podgorica.public|Podgorica.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Montenegro/City/Podgorica.internal|Podgorica.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Montenegro/City/Podgorica.protect|Podgorica.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Montenegro/City/Podgorica.private|Podgorica.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Montenegro/City/Podgorica.personal|Podgorica.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Montenegro/City/Podgorica.secret|Podgorica.secret]] 
+
+### [Podgorica-City.public](/_public/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~Montenegro\Kolašin\CityPodgorica-City.public.md) 
+
+### [Podgorica-City.internal](/_internal/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~Montenegro\Kolašin\CityPodgorica-City.internal.md) 
+
+### [Podgorica-City.protect](/_protect/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~Montenegro\Kolašin\CityPodgorica-City.protect.md) 
+
+### [Podgorica-City.private](/_private/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~Montenegro\Kolašin\CityPodgorica-City.private.md) 
+
+### [Podgorica-City.personal](/_personal/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~Montenegro\Kolašin\CityPodgorica-City.personal.md) 
+
+### [Podgorica-City.secret](/_secret/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~Montenegro\Kolašin\CityPodgorica-City.secret.md)
+

@@ -40,11 +40,16 @@ markerFolder: ./Plav/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Montenegro/Counties/Plav|Plav]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Montenegro/Counties/Plav.public|Plav.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Montenegro/Counties/Plav.internal|Plav.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Montenegro/Counties/Plav.protect|Plav.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Montenegro/Counties/Plav.private|Plav.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Montenegro/Counties/Plav.personal|Plav.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Montenegro/Counties/Plav.secret|Plav.secret]] 
+
+### [Plav.public](/_public/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroPlav.public.md) 
+
+### [Plav.internal](/_internal/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroPlav.internal.md) 
+
+### [Plav.protect](/_protect/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroPlav.protect.md) 
+
+### [Plav.private](/_private/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroPlav.private.md) 
+
+### [Plav.personal](/_personal/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroPlav.personal.md) 
+
+### [Plav.secret](/_secret/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroPlav.secret.md)
 

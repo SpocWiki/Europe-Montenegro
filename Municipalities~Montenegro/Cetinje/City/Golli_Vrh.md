@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Yugoslavia/City/Golli_Vrh|Golli_Vrh]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Yugoslavia/City/Golli_Vrh.public|Golli_Vrh.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Yugoslavia/City/Golli_Vrh.internal|Golli_Vrh.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Yugoslavia/City/Golli_Vrh.protect|Golli_Vrh.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Yugoslavia/City/Golli_Vrh.private|Golli_Vrh.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Yugoslavia/City/Golli_Vrh.personal|Golli_Vrh.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Yugoslavia/City/Golli_Vrh.secret|Golli_Vrh.secret]] 
+
+### [Golli_Vrh.public](/_public/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~Montenegro\Cetinje\CityGolli_Vrh.public.md) 
+
+### [Golli_Vrh.internal](/_internal/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~Montenegro\Cetinje\CityGolli_Vrh.internal.md) 
+
+### [Golli_Vrh.protect](/_protect/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~Montenegro\Cetinje\CityGolli_Vrh.protect.md) 
+
+### [Golli_Vrh.private](/_private/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~Montenegro\Cetinje\CityGolli_Vrh.private.md) 
+
+### [Golli_Vrh.personal](/_personal/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~Montenegro\Cetinje\CityGolli_Vrh.personal.md) 
+
+### [Golli_Vrh.secret](/_secret/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~Montenegro\Cetinje\CityGolli_Vrh.secret.md)
+

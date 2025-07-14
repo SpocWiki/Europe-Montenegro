@@ -39,11 +39,16 @@ markerFolder: ./Bar/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Montenegro/Counties/Bar|Bar]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Montenegro/Counties/Bar.public|Bar.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Montenegro/Counties/Bar.internal|Bar.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Montenegro/Counties/Bar.protect|Bar.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Montenegro/Counties/Bar.private|Bar.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Montenegro/Counties/Bar.personal|Bar.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Montenegro/Counties/Bar.secret|Bar.secret]] 
+
+### [Bar.public](/_public/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroBar.public.md) 
+
+### [Bar.internal](/_internal/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroBar.internal.md) 
+
+### [Bar.protect](/_protect/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroBar.protect.md) 
+
+### [Bar.private](/_private/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroBar.private.md) 
+
+### [Bar.personal](/_personal/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroBar.personal.md) 
+
+### [Bar.secret](/_secret/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroBar.secret.md)
 

@@ -130,12 +130,17 @@ Capital :: [[./Montenegro/Counties/Podgorica]]
 [has_place_latitude::42.7833] 
 
 
-
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/Europe/Europe~South/Montenegro|Montenegro]] 
-- [[../../../../../_public/geo/Continent/Europe/Europe~South/Montenegro.public|Montenegro.public]] 
-- [[../../../../../_internal/geo/Continent/Europe/Europe~South/Montenegro.internal|Montenegro.internal]] 
-- [[../../../../../_protect/geo/Continent/Europe/Europe~South/Montenegro.protect|Montenegro.protect]] 
-- [[../../../../../_private/geo/Continent/Europe/Europe~South/Montenegro.private|Montenegro.private]] 
-- [[../../../../../_personal/geo/Continent/Europe/Europe~South/Montenegro.personal|Montenegro.personal]] 
-- [[../../../../../_secret/geo/Continent/Europe/Europe~South/Montenegro.secret|Montenegro.secret]] 
+
+### [ReadMe.public](/_public/\Earth\Continent\Europe\Europe~South\MontenegroReadMe.public.md) 
+
+### [ReadMe.internal](/_internal/\Earth\Continent\Europe\Europe~South\MontenegroReadMe.internal.md) 
+
+### [ReadMe.protect](/_protect/\Earth\Continent\Europe\Europe~South\MontenegroReadMe.protect.md) 
+
+### [ReadMe.private](/_private/\Earth\Continent\Europe\Europe~South\MontenegroReadMe.private.md) 
+
+### [ReadMe.personal](/_personal/\Earth\Continent\Europe\Europe~South\MontenegroReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/\Earth\Continent\Europe\Europe~South\MontenegroReadMe.secret.md)
+

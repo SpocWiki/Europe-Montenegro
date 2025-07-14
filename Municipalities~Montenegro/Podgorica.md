@@ -40,11 +40,16 @@ markerFolder: ./Podgorica/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Montenegro/Counties/Podgorica|Podgorica]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Montenegro/Counties/Podgorica.public|Podgorica.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Montenegro/Counties/Podgorica.internal|Podgorica.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Montenegro/Counties/Podgorica.protect|Podgorica.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Montenegro/Counties/Podgorica.private|Podgorica.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Montenegro/Counties/Podgorica.personal|Podgorica.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Montenegro/Counties/Podgorica.secret|Podgorica.secret]] 
+
+### [Podgorica.public](/_public/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroPodgorica.public.md) 
+
+### [Podgorica.internal](/_internal/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroPodgorica.internal.md) 
+
+### [Podgorica.protect](/_protect/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroPodgorica.protect.md) 
+
+### [Podgorica.private](/_private/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroPodgorica.private.md) 
+
+### [Podgorica.personal](/_personal/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroPodgorica.personal.md) 
+
+### [Podgorica.secret](/_secret/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroPodgorica.secret.md)
 

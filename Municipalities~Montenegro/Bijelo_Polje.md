@@ -40,11 +40,16 @@ markerFolder: ./Bijelo_Polje/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Montenegro/Counties/Bijelo_Polje|Bijelo_Polje]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Montenegro/Counties/Bijelo_Polje.public|Bijelo_Polje.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Montenegro/Counties/Bijelo_Polje.internal|Bijelo_Polje.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Montenegro/Counties/Bijelo_Polje.protect|Bijelo_Polje.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Montenegro/Counties/Bijelo_Polje.private|Bijelo_Polje.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Montenegro/Counties/Bijelo_Polje.personal|Bijelo_Polje.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Montenegro/Counties/Bijelo_Polje.secret|Bijelo_Polje.secret]] 
+
+### [Bijelo_Polje.public](/_public/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroBijelo_Polje.public.md) 
+
+### [Bijelo_Polje.internal](/_internal/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroBijelo_Polje.internal.md) 
+
+### [Bijelo_Polje.protect](/_protect/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroBijelo_Polje.protect.md) 
+
+### [Bijelo_Polje.private](/_private/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroBijelo_Polje.private.md) 
+
+### [Bijelo_Polje.personal](/_personal/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroBijelo_Polje.personal.md) 
+
+### [Bijelo_Polje.secret](/_secret/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroBijelo_Polje.secret.md)
 

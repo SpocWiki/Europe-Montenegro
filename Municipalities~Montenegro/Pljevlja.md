@@ -40,11 +40,16 @@ markerFolder: ./Pljevlja/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Montenegro/Counties/Pljevlja|Pljevlja]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Montenegro/Counties/Pljevlja.public|Pljevlja.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Montenegro/Counties/Pljevlja.internal|Pljevlja.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Montenegro/Counties/Pljevlja.protect|Pljevlja.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Montenegro/Counties/Pljevlja.private|Pljevlja.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Montenegro/Counties/Pljevlja.personal|Pljevlja.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Montenegro/Counties/Pljevlja.secret|Pljevlja.secret]] 
+
+### [Pljevlja.public](/_public/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroPljevlja.public.md) 
+
+### [Pljevlja.internal](/_internal/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroPljevlja.internal.md) 
+
+### [Pljevlja.protect](/_protect/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroPljevlja.protect.md) 
+
+### [Pljevlja.private](/_private/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroPljevlja.private.md) 
+
+### [Pljevlja.personal](/_personal/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroPljevlja.personal.md) 
+
+### [Pljevlja.secret](/_secret/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroPljevlja.secret.md)
 

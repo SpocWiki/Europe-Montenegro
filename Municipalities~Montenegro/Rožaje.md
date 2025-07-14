@@ -40,11 +40,16 @@ markerFolder: ./Rožaje/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Montenegro/Counties/Rožaje|Rožaje]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Montenegro/Counties/Rožaje.public|Rožaje.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Montenegro/Counties/Rožaje.internal|Rožaje.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Montenegro/Counties/Rožaje.protect|Rožaje.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Montenegro/Counties/Rožaje.private|Rožaje.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Montenegro/Counties/Rožaje.personal|Rožaje.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Montenegro/Counties/Rožaje.secret|Rožaje.secret]] 
+
+### [Rožaje.public](/_public/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroRožaje.public.md) 
+
+### [Rožaje.internal](/_internal/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroRožaje.internal.md) 
+
+### [Rožaje.protect](/_protect/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroRožaje.protect.md) 
+
+### [Rožaje.private](/_private/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroRožaje.private.md) 
+
+### [Rožaje.personal](/_personal/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroRožaje.personal.md) 
+
+### [Rožaje.secret](/_secret/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroRožaje.secret.md)
 

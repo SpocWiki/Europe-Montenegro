@@ -40,11 +40,16 @@ markerFolder: ./Danilovgrad/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Montenegro/Counties/Danilovgrad|Danilovgrad]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Montenegro/Counties/Danilovgrad.public|Danilovgrad.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Montenegro/Counties/Danilovgrad.internal|Danilovgrad.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Montenegro/Counties/Danilovgrad.protect|Danilovgrad.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Montenegro/Counties/Danilovgrad.private|Danilovgrad.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Montenegro/Counties/Danilovgrad.personal|Danilovgrad.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Montenegro/Counties/Danilovgrad.secret|Danilovgrad.secret]] 
+
+### [Danilovgrad.public](/_public/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroDanilovgrad.public.md) 
+
+### [Danilovgrad.internal](/_internal/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroDanilovgrad.internal.md) 
+
+### [Danilovgrad.protect](/_protect/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroDanilovgrad.protect.md) 
+
+### [Danilovgrad.private](/_private/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroDanilovgrad.private.md) 
+
+### [Danilovgrad.personal](/_personal/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroDanilovgrad.personal.md) 
+
+### [Danilovgrad.secret](/_secret/\Earth\Continent\Europe\Europe~South\Montenegro\Municipalities~MontenegroDanilovgrad.secret.md)
 
