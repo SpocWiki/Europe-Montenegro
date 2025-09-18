@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Herceg_Novi
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Herceg_Novi/
 markerFolder: ./Herceg_Novi/

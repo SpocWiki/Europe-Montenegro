@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Rožaje
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Rožaje/
 markerFolder: ./Rožaje/

@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Bijelo_Polje
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Bijelo_Polje/
 markerFolder: ./Bijelo_Polje/
