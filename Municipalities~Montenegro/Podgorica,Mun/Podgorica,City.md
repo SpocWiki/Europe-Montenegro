@@ -50,7 +50,7 @@ owner_of:
   - "[[_Standards/WikiData/WD~Morača_Sports_Center,581727]]"
   - "[[_Standards/WikiData/WD~Podgorica_City_Stadium,1166175]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Regional_Spatial_Plan_for_Zlatibor_and_Moravica_administrative_district,110688430]]"
   - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664]]"
