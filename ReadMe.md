@@ -1,4 +1,11 @@
 ---
+aliases:
+  - Montenegro
+  - Monténégro
+  - الجبل الأسود
+  - 黑山
+  - Черногория
+  - ReadMe
 location:
   - 42.7833
   - 19.4667
@@ -15,18 +22,12 @@ cssclasses:
   - Country
 publish: true
 title: Montenegro
-linkTitle:
-keywords:
-layout:
+linkTitle: ''
+keywords: ''
+layout: ''
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Montenegro
-  - Monténégro
-  - الجبل الأسود
-  - 黑山
-  - Черногория
+publishDate: ''
+expiryDate: ''
 Languages:
   - sr
   - hu

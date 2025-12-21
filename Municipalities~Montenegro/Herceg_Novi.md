@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Herceg_Novi
+  - Herceg Novi
 location:
   - 42.5
   - 18.5
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Herceg_Novi
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Herceg_Novi

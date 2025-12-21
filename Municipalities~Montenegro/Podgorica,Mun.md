@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Podgorica
+  - Podgorica,Mun
 location:
   - 42.5
   - 19.3
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Podgorica
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # [[Podgorica,Mun]] 
