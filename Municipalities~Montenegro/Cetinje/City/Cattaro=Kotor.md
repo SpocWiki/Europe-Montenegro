@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 18.77
 dv_has_place_latitude: 42.43
-dv_name: Cattaro=Kotor
+dv_has_name_: Cattaro=Kotor
 dv_Country: "[[../../../../Yugoslavia]]"
 ---
 #is_a_/Place  

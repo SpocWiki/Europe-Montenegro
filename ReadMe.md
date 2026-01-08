@@ -43,15 +43,13 @@ dv_ISO4217-currency_country_name: MONTENEGRO
 dv_Telephone: 382
 dv_Global: true
 dv_Global_Name: World
-dv_name: Montenegro
-dv_name-en:
-  - Montenegro
-  - Montenegro
-dv_name-es: Montenegro
-dv_name-fr: Monténégro
-dv_name-cn: 黑山
-dv_name-ar: الجبل الأسود
-dv_name-ru: Черногория
+dv_has_name_: Montenegro
+dv_has_name_en: Montenegro
+dv_has_name_es: Montenegro
+dv_has_name_fr: Monténégro
+dv_has_name_cn: 黑山
+dv_has_name_ar: الجبل الأسود
+dv_has_name_ru: Черногория
 dv_CLDR_display_name: Montenegro
 dv_UNTERM_English: Montenegro
 dv_UNTERM_English_Formal: Montenegro
@@ -87,7 +85,7 @@ dv_Developed_:
 dv_ISO3166-1-numeric: 499
 dv_ISO2: ME
 dv_ISO3: MNE
-dv_name-de: Montenegro
+dv_has_name_de: Montenegro
 dv_Continent: "[[../../../Europe]]"
 dv_VehicleCode: MNE
 dv_Capital: "[[./Montenegro/Counties/Podgorica]]"
@@ -110,12 +108,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name` 
 
 name = `=this.dv_name` 
-[	name-en	 :: Montenegro ] 
-name-es = `=this.dv_name-es` 
-name-fr = `=this.dv_name-fr` 
-name-cn = `=this.dv_name-cn` 
-name-ar = `=this.dv_name-ar` 
-name-ru = `=this.dv_name-ru` 
+[	has_name_en	 :: Montenegro ] 
+has_name_es = `=this.dv_has_name_es` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_cn = `=this.dv_has_name_cn` 
+has_name_ar = `=this.dv_has_name_ar` 
+has_name_ru = `=this.dv_has_name_ru` 
 
 CLDR_display_name = `=this.dv_CLDR_display_name` 
 
@@ -174,8 +172,8 @@ geojsonFolder: .//
 markerFolder: .//
 ```
 
-[name-en::Montenegro] 
-name-de = `=this.dv_name-de` 
+[has_name_en::Montenegro] 
+has_name_de = `=this.dv_has_name_de` 
 [Area-Total::] 
 [Area-Land::] 
 Continent = `=this.dv_Continent`

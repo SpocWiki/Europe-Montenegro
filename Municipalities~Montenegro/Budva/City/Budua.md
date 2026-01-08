@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 18.83
 dv_has_place_latitude: 42.28
-dv_name: Budua
+dv_has_name_: Budua
 dv_Country: "[[../../../../Yugoslavia]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 18.92
 dv_has_place_latitude: 42.4
-dv_name: Cetinje
+dv_has_name_: Cetinje
 dv_Country: "[[../../../../Yugoslavia]]"
 ---
 #is_a_/Place  
