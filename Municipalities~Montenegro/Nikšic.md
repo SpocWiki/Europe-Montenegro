@@ -40,17 +40,17 @@ markerFolder: ./Nikšic/
 
 ## Confidential Links & Embeds: 
 
-### [Nikšic](/_Standards/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Nikšic.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Nikšic|Nikšic]] 
 
-### [Nikšic.public](/_public/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Nikšic.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Nikšic.public|Nikšic.public]] 
 
-### [Nikšic.internal](/_internal/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Nikšic.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Nikšic.internal|Nikšic.internal]] 
 
-### [Nikšic.protect](/_protect/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Nikšic.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Nikšic.protect|Nikšic.protect]] 
 
-### [Nikšic.private](/_private/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Nikšic.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Nikšic.private|Nikšic.private]] 
 
-### [Nikšic.personal](/_personal/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Nikšic.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Nikšic.personal|Nikšic.personal]] 
 
-### [Nikšic.secret](/_secret/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Nikšic.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Nikšic.secret|Nikšic.secret]] 
 

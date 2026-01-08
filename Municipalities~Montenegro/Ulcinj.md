@@ -40,17 +40,17 @@ markerFolder: ./Ulcinj/
 
 ## Confidential Links & Embeds: 
 
-### [Ulcinj](/_Standards/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Ulcinj.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Ulcinj|Ulcinj]] 
 
-### [Ulcinj.public](/_public/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Ulcinj.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Ulcinj.public|Ulcinj.public]] 
 
-### [Ulcinj.internal](/_internal/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Ulcinj.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Ulcinj.internal|Ulcinj.internal]] 
 
-### [Ulcinj.protect](/_protect/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Ulcinj.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Ulcinj.protect|Ulcinj.protect]] 
 
-### [Ulcinj.private](/_private/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Ulcinj.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Ulcinj.private|Ulcinj.private]] 
 
-### [Ulcinj.personal](/_personal/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Ulcinj.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Ulcinj.personal|Ulcinj.personal]] 
 
-### [Ulcinj.secret](/_secret/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Ulcinj.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Ulcinj.secret|Ulcinj.secret]] 
 

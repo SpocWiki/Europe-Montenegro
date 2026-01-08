@@ -41,17 +41,17 @@ markerFolder: ./Herceg_Novi/
 
 ## Confidential Links & Embeds: 
 
-### [Herceg_Novi](/_Standards/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Herceg_Novi.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Herceg_Novi|Herceg_Novi]] 
 
-### [Herceg_Novi.public](/_public/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Herceg_Novi.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Herceg_Novi.public|Herceg_Novi.public]] 
 
-### [Herceg_Novi.internal](/_internal/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Herceg_Novi.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Herceg_Novi.internal|Herceg_Novi.internal]] 
 
-### [Herceg_Novi.protect](/_protect/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Herceg_Novi.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Herceg_Novi.protect|Herceg_Novi.protect]] 
 
-### [Herceg_Novi.private](/_private/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Herceg_Novi.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Herceg_Novi.private|Herceg_Novi.private]] 
 
-### [Herceg_Novi.personal](/_personal/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Herceg_Novi.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Herceg_Novi.personal|Herceg_Novi.personal]] 
 
-### [Herceg_Novi.secret](/_secret/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Herceg_Novi.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Herceg_Novi.secret|Herceg_Novi.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Andrijevica/
 
 ## Confidential Links & Embeds: 
 
-### [Andrijevica](/_Standards/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Andrijevica.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Andrijevica|Andrijevica]] 
 
-### [Andrijevica.public](/_public/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Andrijevica.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Andrijevica.public|Andrijevica.public]] 
 
-### [Andrijevica.internal](/_internal/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Andrijevica.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Andrijevica.internal|Andrijevica.internal]] 
 
-### [Andrijevica.protect](/_protect/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Andrijevica.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Andrijevica.protect|Andrijevica.protect]] 
 
-### [Andrijevica.private](/_private/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Andrijevica.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Andrijevica.private|Andrijevica.private]] 
 
-### [Andrijevica.personal](/_personal/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Andrijevica.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Andrijevica.personal|Andrijevica.personal]] 
 
-### [Andrijevica.secret](/_secret/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Andrijevica.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Andrijevica.secret|Andrijevica.secret]] 
 

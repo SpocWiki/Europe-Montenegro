@@ -41,17 +41,17 @@ markerFolder: ./Bijelo_Polje/
 
 ## Confidential Links & Embeds: 
 
-### [Bijelo_Polje](/_Standards/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Bijelo_Polje.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Bijelo_Polje|Bijelo_Polje]] 
 
-### [Bijelo_Polje.public](/_public/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Bijelo_Polje.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Bijelo_Polje.public|Bijelo_Polje.public]] 
 
-### [Bijelo_Polje.internal](/_internal/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Bijelo_Polje.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Bijelo_Polje.internal|Bijelo_Polje.internal]] 
 
-### [Bijelo_Polje.protect](/_protect/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Bijelo_Polje.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Bijelo_Polje.protect|Bijelo_Polje.protect]] 
 
-### [Bijelo_Polje.private](/_private/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Bijelo_Polje.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Bijelo_Polje.private|Bijelo_Polje.private]] 
 
-### [Bijelo_Polje.personal](/_personal/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Bijelo_Polje.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Bijelo_Polje.personal|Bijelo_Polje.personal]] 
 
-### [Bijelo_Polje.secret](/_secret/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Bijelo_Polje.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Bijelo_Polje.secret|Bijelo_Polje.secret]] 
 

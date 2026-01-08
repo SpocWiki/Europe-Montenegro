@@ -40,17 +40,17 @@ markerFolder: ./Danilovgrad/
 
 ## Confidential Links & Embeds: 
 
-### [Danilovgrad](/_Standards/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Danilovgrad.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Danilovgrad|Danilovgrad]] 
 
-### [Danilovgrad.public](/_public/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Danilovgrad.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Danilovgrad.public|Danilovgrad.public]] 
 
-### [Danilovgrad.internal](/_internal/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Danilovgrad.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Danilovgrad.internal|Danilovgrad.internal]] 
 
-### [Danilovgrad.protect](/_protect/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Danilovgrad.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Danilovgrad.protect|Danilovgrad.protect]] 
 
-### [Danilovgrad.private](/_private/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Danilovgrad.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Danilovgrad.private|Danilovgrad.private]] 
 
-### [Danilovgrad.personal](/_personal/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Danilovgrad.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Danilovgrad.personal|Danilovgrad.personal]] 
 
-### [Danilovgrad.secret](/_secret/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Danilovgrad.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Danilovgrad.secret|Danilovgrad.secret]] 
 

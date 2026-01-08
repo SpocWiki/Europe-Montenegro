@@ -40,17 +40,17 @@ markerFolder: ./Šavnik/
 
 ## Confidential Links & Embeds: 
 
-### [Šavnik](/_Standards/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Šavnik.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Šavnik|Šavnik]] 
 
-### [Šavnik.public](/_public/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Šavnik.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Šavnik.public|Šavnik.public]] 
 
-### [Šavnik.internal](/_internal/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Šavnik.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Šavnik.internal|Šavnik.internal]] 
 
-### [Šavnik.protect](/_protect/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Šavnik.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Šavnik.protect|Šavnik.protect]] 
 
-### [Šavnik.private](/_private/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Šavnik.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Šavnik.private|Šavnik.private]] 
 
-### [Šavnik.personal](/_personal/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Šavnik.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Šavnik.personal|Šavnik.personal]] 
 
-### [Šavnik.secret](/_secret/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Šavnik.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Šavnik.secret|Šavnik.secret]] 
 

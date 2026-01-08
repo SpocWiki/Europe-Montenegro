@@ -45,21 +45,19 @@ defaultZoom: 11
 ```
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Podgorica](/_Standards/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Podgorica.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Podgorica,Mun|Podgorica,Mun]] 
 
-### [Podgorica.public](/_public/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Podgorica.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Podgorica,Mun.public|Podgorica,Mun.public]] 
 
-### [Podgorica.internal](/_internal/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Podgorica.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Podgorica,Mun.internal|Podgorica,Mun.internal]] 
 
-### [Podgorica.protect](/_protect/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Podgorica.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Podgorica,Mun.protect|Podgorica,Mun.protect]] 
 
-### [Podgorica.private](/_private/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Podgorica.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Podgorica,Mun.private|Podgorica,Mun.private]] 
 
-### [Podgorica.personal](/_personal/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Podgorica.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Podgorica,Mun.personal|Podgorica,Mun.personal]] 
 
-### [Podgorica.secret](/_secret/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Podgorica.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Montenegro/Municipalities~Montenegro/Podgorica,Mun.secret|Podgorica,Mun.secret]] 
 
