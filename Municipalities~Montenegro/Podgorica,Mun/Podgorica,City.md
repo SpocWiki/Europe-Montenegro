@@ -95,7 +95,7 @@ Libris_URI: 42gjjwxn252dkwn
 dv_is_a_: "[[../../../../../../Geography/Place]]"
 dv_has_place_longitude: 19.46667
 dv_has_place_latitude: 42.78333
-dv_has_name_: Podgorica
+dv_has_name: Podgorica
 dv_is_:
   same_as: "[[../../../../../../../WikiData/WD~Podgorica,23564|WD~Podgorica,23564]]"
 dv_is_same_as: "[[../../../../../../../WikiData/WD~Podgorica,23564|WD~Podgorica,23564]]"
@@ -107,7 +107,7 @@ dv_is_same_as: "[[../../../../../../../WikiData/WD~Podgorica,23564|WD~Podgorica,
 is_a_ = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 State ::  
 Country :: [[../../../Montenegro]]  
 [StateId::] 
