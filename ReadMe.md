@@ -27,7 +27,7 @@ dv_UNTERM_Chinese_Formal: 黑山
 dv_UNTERM_French_Formal: le Monténégro
 dv_UNTERM_Russian: Черногория
 dv_UNTERM_Russian_Formal: Черногория
-dv_Region_Name: '[[../../Europe|Europe]]'
+dv_Region_Name: '[[../../../Europe|Europe]]'
 dv_Intermediate_Region_Name: '[[Montenegro]]'
 dv_Sub-region_Name: '[[Southern Europe]]'
 dv_Region: 150
@@ -51,7 +51,7 @@ dv_ISO2: ME
 dv_ISO3: MNE
 dv_is_:
   same_as:
-  - '[[../../../../WikiData/WD~Montenegro,236|WD~Montenegro,236]]'
+  - '[[../../../../../WikiData/WD~Montenegro,236|WD~Montenegro,236]]'
   - '[[/_Standards/Earth/Continent/Europe/Europe~South/Montenegro|Montenegro]]'
   - '[[/_public/Earth/Continent/Europe/Europe~South/Montenegro.public|Montenegro.public]]'
   - '[[/_internal/Earth/Continent/Europe/Europe~South/Montenegro.internal|Montenegro.internal]]'
@@ -358,15 +358,15 @@ dv_has_:
   url_for_:
     code_repository: https://github.com/SpocWiki/Europe-Montenegro
 dv_has_name_de: Montenegro
-dv_has_place_continent: '[[../../Europe|Europe]]'
+dv_has_place_continent: '[[../../../Europe|Europe]]'
 dv_VehicleCode: MNE
-dv_Capital: '[[./Montenegro/Counties/Podgorica|Podgorica]]'
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
+dv_Capital: '[[Counties/Podgorica|Podgorica]]'
+dv_is_a_: "[[../../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 19.4667
 dv_has_place_latitude: 42.7833
 dv_developed_developing_countries: Developed
 dv_is_same_as:
-- '[[../../../../WikiData/WD~Montenegro,236|WD~Montenegro,236]]'
+- '[[../../../../../WikiData/WD~Montenegro,236|WD~Montenegro,236]]'
 - '[[/_Standards/Earth/Continent/Europe/Europe~South/Montenegro|Montenegro]]'
 - '[[/_public/Earth/Continent/Europe/Europe~South/Montenegro.public|Montenegro.public]]'
 - '[[/_internal/Earth/Continent/Europe/Europe~South/Montenegro.internal|Montenegro.internal]]'
@@ -517,7 +517,7 @@ aliases:
 - "\U00010343\U00010345\U00010330\U00010342\U00010344\U00010330\U00010331\U00010330\U00010339\U00010342\U00010332\U00010330\U0001033B\U00010330\U0001033D\U00010333"
 has_id_wikidata: Q236
 member_of:
-- '[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299|WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]'
+- '[[../../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299|WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]'
 - '[[/_Standards/WikiData/WD~World_Meteorological_Organization,170424|WD~World_Meteorological_Organization,170424]]'
 - '[[/_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384|WD~International_Bank_for_Reconstruction_and_Development,191384]]'
 - '[[/_Standards/WikiData/WD~International_Hydrographic_Organization,233611|WD~International_Hydrographic_Organization,233611]]'
@@ -550,7 +550,7 @@ coat_of_arms: '[[/_Standards/WikiData/WD~Coat_of_arms_of_Montenegro,191728|WD~Co
 different_from: '[[/_Standards/WikiData/WD~Montenegro,357350|WD~Montenegro,357350]]'
 geography_of_topic: '[[/_Standards/WikiData/WD~geography_of_Montenegro,374009|WD~geography_of_Montenegro,374009]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 - '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
 - '[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 history_of_topic: '[[/_Standards/WikiData/WD~history_of_Montenegro,628024|WD~history_of_Montenegro,628024]]'
@@ -940,7 +940,7 @@ is_a = `=this.dv_is_a_`
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Montenegro/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
 ## #has_/map  
 
@@ -961,7 +961,7 @@ defaultZoom: 7
 
 ```leaflet
 id: Montenegro_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
@@ -988,7 +988,7 @@ has_place_continent = `=this.dv_has_place_continent`
 VehicleCode = `=this.dv_VehicleCode`
 Capital = `=this.dv_Capital`
 ![[Coat_of_arms_of_Montenegro.svg|350]]
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Montenegro.mp3|Anthem-Montenegro.mp3]]
+![[../../../../../../_public/xLarge.public/National-Anthem/Anthem-Montenegro.mp3|Anthem-Montenegro.mp3]]
 ![[Flag_of_Montenegro.svg|350]]
 [Alcohol-l::]
 [Language-Id::]
